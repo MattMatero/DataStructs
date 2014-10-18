@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1353751060 source:e:\eclipseworkspaces\cpp\blochhw3\main.cpp
+	<iostream>
+
+1384719929 source:e:\eclipseworkspaces\cpp\blochhw3\src\binnode.cpp
+	"BinNode.h"
+
+1384721093 e:\eclipseworkspaces\cpp\blochhw3\include\binnode.h
+	<string>
+
