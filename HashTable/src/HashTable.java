@@ -1,7 +1,5 @@
 /**
- * 
  * @author Matt Matero
- *
  */
 
 public class HashTable {
