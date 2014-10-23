@@ -1,4 +1,9 @@
-
+/**
+ * A simple linked list class
+ * @author Matt Matero
+ *
+ * @param <E>
+ */
 public class LinkedList<E> {
 	private int numElements;
 	private Node<E> head;
